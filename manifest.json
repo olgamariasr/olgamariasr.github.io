@@ -1,10 +1,10 @@
 {
-  "short_name": "Sumas",
+  "short_name": "Sumas Para Alonso",
   "name": "Sumas. Alonso sabe sumar",
   "description": "Sumas para alonso",
   "icons": [
     {
-      "src": "/images/sumas.png",
+      "src": "sumas.png",
       "type": "image/png",
       "sizes": "192x192"
     }
