@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/olgamariasr/olgamariasr.github.io/precache-manifest.4cbafcb6a637d26861f12f7869605b06.js"
+  "/olgamariasr/olgamariasr.github.io/precache-manifest.51be415692c2c409362601a6f0150dae.js"
 );
 
 workbox.clientsClaim();
